@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Desafio Latam Fullstack Javascript Web Devoleper Bootcamp Tutor**
 
-- 🌱 I’m currently learning **react**
-
 - 📫 How to reach me **franjmarin1991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
